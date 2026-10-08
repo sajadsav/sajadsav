@@ -52,8 +52,8 @@ A modern personal portfolio built with React and Vite.
 
 ## 📊 GitHub Stats
 
-![Sajad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Sajad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajadsav&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadsav&layout=compact&theme=transparent)
 
 ## 📫 Connect With Me
 
